@@ -7,7 +7,7 @@
         "OSL-3.0"
     ],
     "require": {
-        "stripe/stripe-php": "2.*"
+        "inchoo/stripe-php": "2.*"
     },
     "extra": {
         "map": [
